@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="25" height="19" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="tile" tilewidth="32" tileheight="32">
+  <image source="../recursos/Tile/tile.png" width="64" height="32"/>
+ </tileset>
+ <layer name="fundo" width="25" height="19">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NkYGBgHMWjeBSP4lE8ikcxzTAAbLWfaWwHAAA=
+  </data>
+ </layer>
+ <layer name="objetos" width="25" height="19">
+  <properties>
+   <property name="solido" value="true"/>
+  </properties>
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NiYGBgGkYYG8AnRwwYSDtI9SM2vYPBDlzmEBOXg8EOQvZhM4OQ/GCxgxQ9xKQfSt1FbTtI5ZOSP4aSHQxY1JALBsKOoY4BRIqvHmwHAAA=
+  </data>
+ </layer>
+</map>
